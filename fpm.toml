@@ -1,0 +1,18 @@
+name       = "cairo-fortran"
+version    = "0.1.0"
+license    = "GPLv3"
+author     = "The gtk-fortran team"
+copyright  = "2011-2021 The gtk-fortran team"
+maintainer = "Carlos Une <@brocolis>"
+homepage   = "https://github.com/brocolis/cairo-fortran"
+categories = ["bindings", "graphics"]
+# keywords = []
+
+[build]
+link = "cairo"
+auto-executables = true
+auto-tests = true
+auto-examples = true
+
+[install]
+library = false
