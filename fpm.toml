@@ -1,4 +1,5 @@
 name       = "cairo-fortran"
+description= "Fortran bindings for libcairo"
 version    = "0.1.0"
 license    = "GPLv3"
 author     = "The gtk-fortran team"
