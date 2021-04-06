@@ -15,7 +15,7 @@ To use cairo-fortran within your `fpm` project, add the following to your projec
 
 ```toml
 [dependencies]
-cairo = {git = "https://github.com/brocolis/cairo-fortran" }
+cairo-fortran = {git = "https://github.com/brocolis/cairo-fortran" }
 ```
 
 ### Example test1
