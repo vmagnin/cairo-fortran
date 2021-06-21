@@ -20,3 +20,5 @@ cairo-fortran = {git = "https://github.com/brocolis/cairo-fortran" }
 
 ### Example test1
 ![test1](F.png)
+### Example test2
+![test2](axis.png)
