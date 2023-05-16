@@ -1,7 +1,7 @@
 name       = "cairo-fortran"
 description= "Fortran bindings for libcairo"
 version    = "0.1.0"
-license    = "GPLv3"
+license    = "GPL-3.0-or-later"
 author     = "The gtk-fortran team"
 copyright  = "2011-2021 The gtk-fortran team"
 maintainer = "Carlos Une <@brocolis>"

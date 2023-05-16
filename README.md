@@ -8,7 +8,7 @@ Authors:
 > Vincent MAGNIN, James TAPPIN, Jens HUNGER, Jerry DE LISLE, "gtk-fortran: a GTK+ binding to build Graphical User Interfaces in Fortran", _Journal of Open Source Software,_ 4(34), 1109, 12th January 2019, [https://doi.org/10.21105/joss.01109](https://doi.org/10.21105/joss.01109)
 
 ## License
-GPLv3
+GPL-3.0-or-later
 
 ## fpm
 To use cairo-fortran within your `fpm` project, add the following to your project `fpm.toml` file:
