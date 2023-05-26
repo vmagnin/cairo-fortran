@@ -24,11 +24,11 @@ axis.png  chess.png  F.png
 ```
 
 ### Example test1
-![test1](F.png)
+![test1](pictures/F.png)
 ### Example test2
-![test2](axis.png)
+![test2](pictures/axis.png)
 ### Example test4
-![test4](chess.png)
+![test4](pictures/chess.png)
 
 ## fpm
 To use cairo-fortran within your own `fpm` project, add the following to your project `fpm.toml` file:
