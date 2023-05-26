@@ -1,6 +1,8 @@
 # cairo-fortran
 
-This repository contains the libcairo bindings for Fortran from the [gtk-fortran project](https://github.com/vmagnin/gtk-fortran/) available as a separate _fpm_ package.
+This repository contains the libcairo bindings for Fortran from the [gtk-fortran project](https://github.com/vmagnin/gtk-fortran/) available as a separate _fpm_ package. 
+
+Remark: it was cloned from the now unavailable @brocolis' repository (latest 5th September 2021 version).
 
 ## Testing cairo-fortran
 
@@ -40,6 +42,12 @@ cairo-fortran = {git = "https://github.com/vmagnin/cairo-fortran" }
 
 ## License
 GPL-3.0-or-later
+
+## Cairo documentation
+
+* https://cairographics.org/documentation/
+* API Reference Manual: https://cairographics.org/manual/
+
 
 ## Original project and Authors
 * Origin: [gtk-fortran project](https://github.com/vmagnin/gtk-fortran/)
