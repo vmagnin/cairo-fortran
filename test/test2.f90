@@ -9,7 +9,7 @@
 ! - Draw axis and grid lines
 ! - Plot a function i(t) = I|\cos(\omega t + \phi)|
 ! - Draw a line
-! - Save the image to disk
+! - Save the image to disk in SVG
 
 program test2
     use cairo
@@ -32,10 +32,13 @@ program test2
     type(cairo_matrix_t), target :: m
     integer :: i
 
-    ! Initialize
-    surface = cairo_image_surface_create(CAIRO_FORMAT_ARGB32, &
-                                       & int(IMAGE_WIDTH), int(IMAGE_HEIGHT))
+    ! Rendering in a SVG file:
+    surface = cairo_svg_surface_create("axis.svg"//c_null_char, &
+                                      & IMAGE_WIDTH, IMAGE_HEIGHT)
     c = cairo_create(surface)
+    call cairo_svg_surface_restrict_to_version(surface, CAIRO_SVG_VERSION_1_2)
+
+    ! Initialize
     call cairo_set_antialias(c, CAIRO_ANTIALIAS_BEST)
 
     ! Set background colour
@@ -92,9 +95,6 @@ program test2
     call cairo_move_to(c, -40.d0, -40.d0)
     call cairo_line_to(c, 40.d0, -40.d0)
     call cairo_stroke(c)
-
-    ! Write .png
-    r = cairo_surface_write_to_png(surface, "axis.png"//c_null_char)
 
     ! Destroy
     call cairo_destroy(c)

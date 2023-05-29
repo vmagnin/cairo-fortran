@@ -55,7 +55,7 @@ $ cd cairo-fortran
 
 ## Testing cairo-fortran
 
-Each test prints nothing in the terminal but is creating a PNG file. You should therefore obtain three PNG files in the main directory of the project:
+Each test prints nothing in the terminal but is creating an output file in the main directory of the project: `test1.f90` a PNG file, `test2.f90` a SVG file and `test4.f90` a PDF file.
 
 ```bash
 $ fpm test
@@ -70,9 +70,11 @@ test4                                  done.
 test1                                  done.
 test2                                  done.
 [100%] Project compiled successfully.
-$ ls *.png
-axis.png  chess.png  F.png
+$ ls *.png *.svg *.pdf
+axis.svg  chess.pdf  F.png
 ```
+
+See https://cairographics.org/manual/cairo-surfaces.html for other available *surfaces* (for example you could use PostScript).
 
 ### Example test1
 ![test1](pictures/F.png)

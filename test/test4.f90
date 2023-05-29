@@ -4,7 +4,7 @@
 ! - Create a 480x480 image
 ! - Create an internal workspace 8x8
 ! - Draw board
-! - Save image to disk
+! - Save image to disk in PDF
 
 program test4
     use cairo
@@ -21,10 +21,12 @@ program test4
     type(cairo_matrix_t), target :: m
     integer :: i, j
 
-    ! Initialize
-    surface = cairo_image_surface_create(CAIRO_FORMAT_ARGB32, &
-                                       & int(IMAGE_WIDTH), int(IMAGE_HEIGHT))
+    ! Rendering in a PDF file:
+    surface = cairo_pdf_surface_create("chess.pdf"//c_null_char, &
+                                     & IMAGE_WIDTH, IMAGE_HEIGHT)
     c = cairo_create(surface)
+
+    ! Initialize
     call cairo_set_antialias(c, CAIRO_ANTIALIAS_BEST)
 
     ! Transform image coordinates (480x480) to my internal workspace (8x8)
@@ -50,9 +52,6 @@ program test4
 
         end do
     end do
-
-    ! Write .png
-    r = cairo_surface_write_to_png(surface, "chess.png"//c_null_char)
 
     ! Destroy
     call cairo_destroy(c)

@@ -9,6 +9,8 @@ All notable changes to the gtk-fortran project are documented in this file. The 
 
 ### Changed
 - `src/cairo-auto.f90` and `src/cairo-enums.f90` updated for **Cairo 1.17.8** (generated with the `cfwrapper.py` program under Fedora 38).
+- `test/test2.f90` is now creating a SVG file.
+- `test/test4.f90` is now creating a PDF file.
 
 ## [cairo-fortran 1.0.0]
 
