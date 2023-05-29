@@ -90,7 +90,8 @@ cairo-fortran = {git = "https://github.com/vmagnin/cairo-fortran" }
 ```
 
 ## License
-GPL-3.0-or-later
+
+Cairo-fortran is licensed under the [GNU General Public License version 3 or later](http://www.gnu.org/licenses/gpl.html), with the additional permissions described in the [GCC Runtime Library Exception version 3.1](https://www.gnu.org/licenses/gcc-exception-3.1.en.html).
 
 ## Cairo documentation
 
@@ -100,6 +101,5 @@ GPL-3.0-or-later
 
 ## Original project
 * Origin: [gtk-fortran project](https://github.com/vmagnin/gtk-fortran/)
-* Authors:
 > Vincent MAGNIN, James TAPPIN, Jens HUNGER, Jerry DE LISLE, "gtk-fortran: a GTK+ binding to build Graphical User Interfaces in Fortran", _Journal of Open Source Software,_ 4(34), 1109, 12th January 2019, [https://doi.org/10.21105/joss.01109](https://doi.org/10.21105/joss.01109)
 
