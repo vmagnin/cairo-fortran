@@ -1,6 +1,6 @@
 # cairo-fortran
 
-[[logo/logo-cairo-fortran.png]]
+![logo](logo/logo-cairo-fortran.png)
 
 This repository contains Fortran bindings for the [Cairo](https://cairographics.org/) vector graphics library. It was extracted from the [gtk-fortran](https://github.com/vmagnin/gtk-fortran/wiki/) project, as a separate _fpm_ package.
 
