@@ -6,6 +6,7 @@ All notable changes to the gtk-fortran project are documented in this file. The 
 ### Added
 - `LICENSE_EXCEPTION`: text of the GCC RUNTIME LIBRARY EXCEPTION 3.1.
 - `CHANGELOG.md`
+- `logo/`: a logo using Chi and Rho in a purple ellipse. Indeed, the original name of the Cairo library was Xr.
 
 ### Changed
 - `src/cairo-auto.f90` and `src/cairo-enums.f90` updated for **Cairo 1.17.8** (generated with the `cfwrapper.py` program under Fedora 38).

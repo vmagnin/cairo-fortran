@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="131.28432"
+   height="48.70002"
+   id="svg6843"
+   sodipodi:version="0.32"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   version="1.0"
+   sodipodi:docname="cairo-fortran-logo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="logo-cairo-fortran.jpg"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs6845">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-50 : 520.70002 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="700 : 520.70002 : 1"
+       inkscape:persp3d-origin="300 : 320.70002 : 1"
+       id="perspective13" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.4208887"
+     inkscape:cx="67.403407"
+     inkscape:cy="23.723876"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     width="128px"
+     height="128px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1139"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7947"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="2.8469113"
+       originy="-85.431377" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata6848">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier />
+        <dc:source />
+        <dc:relation />
+        <dc:language />
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:coverage />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/old-licenses/fdl-1.2.html" />
+      </cc:Work>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(2.8469113,-85.431377)">
+    <ellipse
+       style="fill:#734f96;fill-opacity:1;fill-rule:evenodd;stroke:#734f96;stroke-width:3.47447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13739"
+       cx="62.795246"
+       cy="109.78139"
+       rx="63.904922"
+       ry="22.612776" />
+    <g
+       id="g216"
+       transform="translate(-1.0999575)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.5713px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="29.847954"
+         y="126.52981"
+         id="text6459"
+         inkscape:export-filename="/home/vmagnin/Bureau/Lien vers Interfaces graphiques/gtk-fortran/logo/logo-gtk-fortran-small.png"
+         inkscape:export-xdpi="83.855614"
+         inkscape:export-ydpi="83.855614"><tspan
+           sodipodi:role="line"
+           id="tspan6457"
+           x="29.847954"
+           y="126.52981"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">fortran</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.5713px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="38.859543"
+         y="105.08218"
+         id="text6463"
+         inkscape:export-filename="/home/vmagnin/Bureau/Lien vers Interfaces graphiques/gtk-fortran/logo/logo-gtk-fortran-small.png"
+         inkscape:export-xdpi="83.855614"
+         inkscape:export-ydpi="83.855614"><tspan
+           sodipodi:role="line"
+           id="tspan6461"
+           x="38.859543"
+           y="105.08218"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">cairo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:Symbola;-inkscape-font-specification:'Symbola, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13922;stroke-opacity:1"
+         x="7.9410954"
+         y="112.82433"
+         id="text6467"
+         inkscape:export-filename="/home/vmagnin/Bureau/Lien vers Interfaces graphiques/gtk-fortran/logo/logo-gtk-fortran-small.png"
+         inkscape:export-xdpi="83.855614"
+         inkscape:export-ydpi="83.855614"><tspan
+           sodipodi:role="line"
+           id="tspan6465"
+           x="7.9410954"
+           y="112.82433"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Symbola;-inkscape-font-specification:'Symbola, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13922;stroke-opacity:1">χ</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:Symbola;-inkscape-font-specification:'Symbola, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13922;stroke-opacity:1"
+         x="104.39619"
+         y="112.87901"
+         id="text6471"
+         inkscape:export-filename="/home/vmagnin/Bureau/Lien vers Interfaces graphiques/gtk-fortran/logo/logo-gtk-fortran-small.png"
+         inkscape:export-xdpi="83.855614"
+         inkscape:export-ydpi="83.855614"><tspan
+           sodipodi:role="line"
+           id="tspan6469"
+           x="104.39619"
+           y="112.87901"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Symbola;-inkscape-font-specification:'Symbola, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13922;stroke-opacity:1">ρ</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Symbola;-inkscape-font-specification:'Symbola, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13922;stroke-opacity:1"
+         x="22.907898"
+         y="113.90898"
+         id="text6475"
+         inkscape:export-filename="/home/vmagnin/Bureau/Lien vers Interfaces graphiques/gtk-fortran/logo/logo-gtk-fortran-small.png"
+         inkscape:export-xdpi="83.855614"
+         inkscape:export-ydpi="83.855614"><tspan
+           sodipodi:role="line"
+           id="tspan6473"
+           x="22.907898"
+           y="113.90898"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Symbola;-inkscape-font-specification:'Symbola, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13922;stroke-opacity:1">⋅</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Symbola;-inkscape-font-specification:'Symbola, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13922;stroke-opacity:1"
+         x="98.883492"
+         y="113.90898"
+         id="text6481"
+         inkscape:export-filename="/home/vmagnin/Bureau/Lien vers Interfaces graphiques/gtk-fortran/logo/logo-gtk-fortran-small.png"
+         inkscape:export-xdpi="83.855614"
+         inkscape:export-ydpi="83.855614"><tspan
+           sodipodi:role="line"
+           id="tspan6479"
+           x="98.883492"
+           y="113.90898"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Symbola;-inkscape-font-specification:'Symbola, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13922;stroke-opacity:1">⋅</tspan></text>
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 28.907809,109.36211 c 67.694522,0 67.694522,0 67.694522,0"
+         id="path6560" />
+    </g>
+  </g>
+</svg>
