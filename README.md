@@ -80,10 +80,16 @@ See https://cairographics.org/manual/cairo-surfaces.html for other available *su
 
 ### Example test1
 ![test1](pictures/F.png)
+
 ### Example test2
 ![test2](pictures/axis.png)
+
 ### Example test4
 ![test4](pictures/chess.png)
+
+### An external example
+
+The [hat_polykite](https://github.com/vmagnin/hat_polykite) example uses cairo-fortran as a fpm dependency.
 
 ## fpm
 To use cairo-fortran within your own `fpm` project, add the following to your project `fpm.toml` file:
