@@ -106,10 +106,11 @@ cairo-fortran = {git = "https://github.com/vmagnin/cairo-fortran" }
 
 Cairo-fortran is licensed under the [GNU General Public License version 3 or later](http://www.gnu.org/licenses/gpl.html), with the additional permissions described in the [GCC Runtime Library Exception version 3.1](https://www.gnu.org/licenses/gcc-exception-3.1.en.html).
 
-## Cairo documentation
+## Cairo documentation and tutorials
 
 * https://cairographics.org/documentation/
-* API Reference Manual: https://cairographics.org/manual/
+    * API Reference Manual: https://cairographics.org/manual/
+* A [Cairo graphics tutorial](https://zetcode.com/gfx/cairo/).
 
 
 ## Original project
