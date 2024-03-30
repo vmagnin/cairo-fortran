@@ -1,10 +1,14 @@
+! Last modification: vmagnin, 2024-03-30
+
 program test1
   use cairo
   use cairo_enums
+  use cairo_types
 
   implicit none
   type(c_ptr)    :: surface, c
   integer(c_int) :: r
+  type(cairo_text_extents_t), target :: extents
 
   ! Initialize
   surface = cairo_image_surface_create(CAIRO_FORMAT_ARGB32, 200, 200)
@@ -24,6 +28,9 @@ program test1
   call cairo_move_to(c, 40d0, 80d0)
   call cairo_show_text(c, "F"//c_null_char)
   call cairo_stroke(c)
+
+  call cairo_text_extents(c, "F"//c_null_char, c_loc(extents))
+  print '(A, 6F8.2)', "Cairo text extents: ", extents
 
   ! Write .png
   r = cairo_surface_write_to_png(surface, "F.png"//c_null_char)
