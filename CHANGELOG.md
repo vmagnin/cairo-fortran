@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the gtk-fortran project are documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [cairo-fortran dev]
+
+### Added
+- Type `cairo_text_extents_t` in `src/cairo-types.f90`.
+
+
 ## [cairo-fortran 1.1.0] 2023-06-02
 
 ### Added
