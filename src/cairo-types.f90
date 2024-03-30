@@ -16,12 +16,12 @@ module cairo_types
 
     ! https://www.cairographics.org/manual/cairo-cairo-scaled-font-t.html#cairo-text-extents-t
     type, bind(c) :: cairo_text_extents_t
-        real(c_double) :: x_bearing;
-        real(c_double) :: y_bearing;
-        real(c_double) :: width;
-        real(c_double) :: height;
-        real(c_double) :: x_advance;
-        real(c_double) :: y_advance;
+        real(c_double) :: x_bearing
+        real(c_double) :: y_bearing
+        real(c_double) :: width
+        real(c_double) :: height
+        real(c_double) :: x_advance
+        real(c_double) :: y_advance
     end type
 
 end module
