@@ -2,7 +2,7 @@
 
 ![logo](logo/logo-cairo-fortran.png)
 
-This repository contains Fortran bindings for the [Cairo](https://cairographics.org/) vector graphics library. It was extracted from the [gtk-fortran](https://github.com/vmagnin/gtk-fortran/wiki/) project, as a separate _fpm_ package.
+This repository contains Fortran bindings for the [Cairo](https://cairographics.org/) vector graphics library. It was extracted from the [gtk-fortran](https://github.com/vmagnin/gtk-fortran/wiki/) project, as a separate _fpm_ package, for people who don't need the GTK stuff.
 
 Remark: this repository was cloned from the now unavailable @brocolis' repository (latest 5th September 2021 version).
 
@@ -57,7 +57,7 @@ $ cd cairo-fortran
 
 ## Testing cairo-fortran
 
-Each test prints nothing in the terminal but is creating an output file in the main directory of the project: `test1.f90` a PNG file, `test2.f90` a SVG file and `test4.f90` a PDF file.
+Each test prints nothing in the terminal but creates an output file in the main directory of the project: `test1.f90` a PNG file, `test2.f90` a SVG file and `test4.f90` a PDF file.
 
 ```bash
 $ fpm test
@@ -76,7 +76,7 @@ $ ls *.png *.svg *.pdf
 axis.svg  chess.pdf  F.png
 ```
 
-See https://cairographics.org/manual/cairo-surfaces.html for other available *surfaces* (for example you could use PostScript).
+Note that Cairo has many other rendering devices not tested here (e.g. PostScript). See https://cairographics.org/manual/cairo-surfaces.html for other available *surfaces*.
 
 ### Example test1
 ![test1](pictures/F.png)
@@ -89,13 +89,13 @@ See https://cairographics.org/manual/cairo-surfaces.html for other available *su
 
 ### Other examples
 
-Theses example use cairo-fortran as a fpm dependency:
+These examples use cairo-fortran as a fpm dependency:
 * https://github.com/vmagnin/hat_polykite
 * https://github.com/vmagnin/von_koch_snowflake
 * https://github.com/vmagnin/penrose_tiling
 
 ## fpm
-To use cairo-fortran within your own `fpm` project, add the following to your project `fpm.toml` file:
+To use cairo-fortran within your own `fpm` project, add the following dependency to your project `fpm.toml` file:
 
 ```toml
 [dependencies]
